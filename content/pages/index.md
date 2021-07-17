@@ -7,7 +7,7 @@ sections:
     type: section_hero
     title: >-
       Hola, me llamo Josed Mauricio Medina Espada, soy Técnico en Contabilidad 
-      y Finanzas.
+      y Finanzas. 
     content: >
       Técnico en contabilización de operaciones Comerciales y Financieras
       alineado a las normas vigentes y procesos organizacionales.
