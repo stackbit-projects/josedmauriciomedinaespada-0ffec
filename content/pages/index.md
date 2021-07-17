@@ -30,7 +30,8 @@ sections:
       \-Comprensión de los aspectos básicos de marketing digital.
 
 
-      \-Programación básica (Python)
+      \-Programación básica
+      (Python)![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F90e9e171-9745-4ded-915e-47769e2cd9ff%2F3b2d644c-78d0-47b5-9140-a21a31fe6877\_\(2\).jpg?table=block\&id=9a6d2c4f-2ed5-4171-8c0b-bf8e56d41201\&spaceId=0a2d8112-947f-41ef-b3dc-a8d85a18cfbc\&width=480\&userId=b7429daa-00c1-4b25-9966-803b500db9d9\&cache=v2)
     actions:
       - label: Let's talk
         url: /contact
