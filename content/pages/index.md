@@ -2,7 +2,8 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: hero
+  - section_id: >-
+      hero![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/50546353-5214-45f8-b0c8-a100a152bc8a/3b2d644c-78d0-47b5-9140-a21a31fe6877.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/50546353-5214-45f8-b0c8-a100a152bc8a/3b2d644c-78d0-47b5-9140-a21a31fe6877.jpg)
     type: section_hero
     title: >-
       Hola, me llamo Josed Mauricio Medina Espada, soy Técnico en Contabilidad 
