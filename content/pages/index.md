@@ -7,9 +7,28 @@ sections:
     title: >-
       Hola, me llamo Josed Mauricio Medina Espada, soy Técnico en Contabilidad 
       y Finanzas.
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Técnico en contabilización de operaciones Comerciales y Financieras
+      alineado a las normas vigentes y procesos organizacionales.
+
+
+
+      Manejo de actividades de contabilidad y finanzas; complementándolo con
+      conocimiento de saberes de la economía digital en el ámbito laboral, como
+      por ejemplo :
+
+
+      \-Aplicación de las tecnologías blockchain y criptoactivos (Criptomonedas)
+
+
+      \-Conocimiento financiero aplicado a nivel: Personal, inversiones y
+      organizacional (Administrativo y Financiamiento startups)
+
+
+      \-Comprensión de los aspectos básicos de marketing digital.
+
+
+      \-Programación básica (Python)
     actions:
       - label: Let's talk
         url: /contact
